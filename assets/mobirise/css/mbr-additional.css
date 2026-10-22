@@ -1435,7 +1435,7 @@ a {
 .cid-tJGEoKGifq {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #0c2c68;
+  background-color: #3c66b4;
 }
 .cid-tJGEoKGifq img,
 .cid-tJGEoKGifq .item-img {
@@ -1500,10 +1500,146 @@ a {
   text-align: center;
   color: #454745;
 }
+.cid-vyOP1JlkLx {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #0c2c68;
+}
+.cid-vyOP1JlkLx img,
+.cid-vyOP1JlkLx .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-vyOP1JlkLx .item:focus,
+.cid-vyOP1JlkLx span:focus {
+  outline: none;
+}
+.cid-vyOP1JlkLx .item {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-vyOP1JlkLx .item {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vyOP1JlkLx .item-content {
+  margin-top: 2rem;
+  padding: 0 2.25rem 2.25rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-vyOP1JlkLx .item-content {
+    padding: 0 2rem 1.5rem;
+    margin-top: 1rem;
+  }
+}
+.cid-vyOP1JlkLx .item-wrapper {
+  position: relative;
+  border-radius: 2rem;
+  background: #f7f7f7;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-vyOP1JlkLx .item-wrapper .item-footer {
+  margin-top: auto;
+}
+.cid-vyOP1JlkLx .mbr-section-title {
+  color: #ff4552;
+  text-align: center;
+}
+.cid-vyOP1JlkLx .item-title {
+  text-align: left;
+  color: #393193;
+}
+.cid-vyOP1JlkLx .item-subtitle {
+  text-align: center;
+}
+.cid-vyOP1JlkLx .mbr-text,
+.cid-vyOP1JlkLx .item .mbr-section-btn {
+  text-align: left;
+}
+.cid-vyOP1JlkLx .mbr-section-subtitle,
+.cid-vyOP1JlkLx .mbr-section-head .mbr-section-btn {
+  text-align: center;
+  color: #454745;
+}
+.cid-vyOR6OyKrW {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #3c66b4;
+}
+.cid-vyOR6OyKrW img,
+.cid-vyOR6OyKrW .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-vyOR6OyKrW .item:focus,
+.cid-vyOR6OyKrW span:focus {
+  outline: none;
+}
+.cid-vyOR6OyKrW .item {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-vyOR6OyKrW .item {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vyOR6OyKrW .item-content {
+  margin-top: 2rem;
+  padding: 0 2.25rem 2.25rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-vyOR6OyKrW .item-content {
+    padding: 0 2rem 1.5rem;
+    margin-top: 1rem;
+  }
+}
+.cid-vyOR6OyKrW .item-wrapper {
+  position: relative;
+  border-radius: 2rem;
+  background: #f7f7f7;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-vyOR6OyKrW .item-wrapper .item-footer {
+  margin-top: auto;
+}
+.cid-vyOR6OyKrW .mbr-section-title {
+  color: #ff4552;
+  text-align: center;
+}
+.cid-vyOR6OyKrW .item-title {
+  text-align: left;
+  color: #393193;
+}
+.cid-vyOR6OyKrW .item-subtitle {
+  text-align: center;
+}
+.cid-vyOR6OyKrW .mbr-text,
+.cid-vyOR6OyKrW .item .mbr-section-btn {
+  text-align: left;
+}
+.cid-vyOR6OyKrW .mbr-section-subtitle,
+.cid-vyOR6OyKrW .mbr-section-head .mbr-section-btn {
+  text-align: center;
+  color: #454745;
+}
 .cid-tJGKiS9ad3 {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #ddf0fb;
+  background-color: #0f3d94;
 }
 .cid-tJGKiS9ad3 img,
 .cid-tJGKiS9ad3 .item-img {
@@ -1549,7 +1685,7 @@ a {
   margin-top: auto;
 }
 .cid-tJGKiS9ad3 .mbr-section-title {
-  color: #0c2c68;
+  color: #ffffff;
   text-align: center;
 }
 .cid-tJGKiS9ad3 .item-title {
@@ -1566,11 +1702,12 @@ a {
 .cid-tJGKiS9ad3 .mbr-section-subtitle,
 .cid-tJGKiS9ad3 .mbr-section-head .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
 }
 .cid-vq8uSaI29U {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #3c66b4;
 }
 .cid-vq8uSaI29U .mbr-fallback-image.disabled {
   display: none;
@@ -1603,11 +1740,11 @@ a {
   }
 }
 .cid-vq8uSaI29U .mbr-section-title {
-  color: #0c2c68;
+  color: #ffffff;
 }
 .cid-vq8uSaI29U .mbr-text,
 .cid-vq8uSaI29U .mbr-section-btn {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-vq7xHcbKjq {
   padding-top: 3rem;
@@ -1657,7 +1794,7 @@ a {
 .cid-vq9mCFptgC {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #ddf0fb;
+  background-color: #3c66b4;
 }
 .cid-vq9mCFptgC .mbr-text {
   color: #000000;
@@ -1666,7 +1803,7 @@ a {
   color: #000000;
 }
 .cid-vq9mCFptgC .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 .cid-vq9mCFptgC .mbr-text,
